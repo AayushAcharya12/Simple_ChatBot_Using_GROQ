@@ -120,11 +120,10 @@ Machine Learning is a branch of Artificial Intelligence that enables computers t
 ---
 ## 📸 Screenshots
 
-### Chatbot Interface
-![Response 1](Screenshots/demo1.png)
+<img src="screenshots/img1.png" width="600">
 
-### Response Example
-![Response 2](Screenshots/demo2.png)
+<img src="screenshots/img2.png" width="600">
+
 ## 🔮 Future Improvements
 
 * Add chat history
