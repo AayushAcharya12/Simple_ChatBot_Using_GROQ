@@ -120,9 +120,9 @@ Machine Learning is a branch of Artificial Intelligence that enables computers t
 ---
 ## 📸 Screenshots
 
-<img src="Screenshots/demo1.png" width="600">
-
-<img src="Screenshots/demo2.png" width="600">
+  <div>Demo1:<img src="Screenshots/demo1.png" width="48%" /></div>
+  
+  Demo2:<img src="Screenshots/demo2.png" width="48%" />
 
 ## 🔮 Future Improvements
 
